@@ -8,10 +8,10 @@ To get the dataset open a terminal, go into the directory you wish to host the r
 ```python
 git clone https://github.com/georgiosouzounis/dogs_and_cats.git
 cd dogs_and_cats
-unzip train_dogs.zip .
-unzip train_cats.zip .
-unzip test.zip .
-unzip exercise.zip .
+unzip train_dogs.zip
+unzip train_cats.zip
+unzip test.zip
+unzip exercise.zip
 ```
 
 Create a ```train/``` directory and move the dog and cat training images in there:
