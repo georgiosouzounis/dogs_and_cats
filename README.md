@@ -14,6 +14,8 @@ unzip test.zip
 unzip exercise.zip
 ```
 
+## structure your directory
+
 Create a ```train/``` directory and move the dog and cat training images in there:
 ```python
 mkdir train/
@@ -21,6 +23,13 @@ mkdir train/dogs/
 mkdir train/cats/
 mv train_dogs/* train/dogs/
 mv train_cats/* train/cats/
+```
+
+## remove temporary files
+
+Clean-up some space by typing in:
+```python
+rm *.zip
 ```
 
 ## Contact
