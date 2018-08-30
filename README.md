@@ -30,6 +30,8 @@ mv train_cats/* train/cats/
 Clean-up some space by typing in:
 ```python
 rm *.zip
+rm -r train_dogs/
+rm -r train_cats/
 ```
 
 ## Contact
